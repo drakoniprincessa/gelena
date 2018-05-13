@@ -59,6 +59,12 @@
     font-size: 33px;
     font-weight: bold;
 }
+.s29 .text{
+    font-size: 29px;
+}
+.s25 .text{
+    font-size: 25px;
+}
 
 .text .inner {
     vertical-align: middle;
